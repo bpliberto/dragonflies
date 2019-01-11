@@ -1,0 +1,621 @@
+code,Species,Sex,Number,c1,c2,c3,c4,c5,c6,c7,c8,c9,c10,c11
+NMBS,Common Green Darner,m,1,1,0,0,0,0,0,0,0,0,0,0
+NMPN,Painted Skimmer,m,2,1,0,0,0,0,0,0,0,0,0,0
+NMBN,Painted Skimmer,m,3,1,0,0,0,0,0,0,0,0,0,0
+NMPN,Painted Skimmer,m,4,1,0,0,0,0,0,0,0,0,0,0
+HB,Carolina Saddlebags,m,5,1,0,0,0,0,0,0,0,0,0,0
+HB,Painted Skimmer,m,6,1,0,0,0,0,0,0,0,0,0,0
+HB,Painted Skimmer,m,7,1,0,0,0,0,0,0,0,0,0,0
+HB,Painted Skimmer,m,8,1,0,0,0,0,0,0,0,0,0,0
+HB,Painted Skimmer,m,9,1,0,0,0,0,0,0,0,0,0,0
+HB,Painted Skimmer,m,10,1,0,0,0,0,0,0,0,0,0,0
+HB,Painted Skimmer,m,11,1,0,0,0,0,0,0,0,0,0,0
+HB,Carolina Saddlebags,m,12,1,0,0,0,0,0,0,0,0,0,0
+HB,Painted Skimmer,m,13,1,0,0,0,0,0,0,0,0,0,0
+HB,Painted Skimmer,m,14,1,0,0,0,0,0,0,0,0,0,0
+HB,Carolina Saddlebags,m,15,1,0,0,0,0,0,0,0,0,0,0
+HB,Carolina Saddlebags,m,16,1,0,0,0,0,0,0,0,0,0,0
+HB,Carolina Saddlebags,m,17,1,0,0,0,0,0,0,0,0,0,0
+HB,Carolina Saddlebags,m,18,1,0,0,0,0,0,0,0,0,0,0
+NMPN,Painted Skimmer,m,19,0,1,0,0,0,0,0,0,0,0,0
+NMPN,Painted Skimmer,m,20,0,1,0,0,0,0,0,0,0,0,0
+NMPN,Painted Skimmer,m,21,0,1,0,0,0,0,0,0,0,0,0
+NMPN,Painted Skimmer,m,22,0,1,0,0,0,0,0,0,0,0,0
+HB,Carolina Saddlebags,m,23,0,1,0,0,0,0,0,0,0,0,0
+HB,Painted Skimmer,m,24,0,1,0,0,0,0,0,0,0,0,0
+HB,Painted Skimmer,m,25,0,1,0,0,0,0,0,0,0,0,0
+HB,Painted Skimmer,m,26,0,1,0,0,0,0,0,0,0,0,0
+HB,Painted Skimmer,m,27,0,1,0,0,0,0,0,0,0,0,0
+HB,Carolina Saddlebags,m,28,0,1,0,0,0,0,0,0,0,0,0
+HB,Carolina Saddlebags,m,29,0,1,0,0,0,0,0,0,0,0,0
+HB,Painted Skimmer,m,30,0,1,0,0,0,0,0,0,0,0,0
+HB,Chalk Fronted Corporal,m,31,0,1,0,0,0,0,0,0,0,0,0
+HB,Painted Skimmer,m,32,0,1,0,0,0,0,0,0,0,0,0
+HB,Carolina Saddlebags,m,33,0,1,0,0,0,0,0,0,0,0,0
+HB,Carolina Saddlebags,m,34,0,1,0,0,0,0,0,0,0,0,0
+NMPS,Painted Skimmer,m,35,1,0,0,0,0,0,0,0,0,0,0
+NMPS,Painted Skimmer,m,36,1,0,0,0,0,0,0,0,0,0,0
+NMPS,Painted Skimmer,m,37,1,0,0,0,0,0,0,0,0,0,0
+NMPS,Painted Skimmer,m,38,1,0,0,0,0,0,0,0,0,0,0
+NMPS,Chalkfronted Corporal,f,39,1,0,0,0,0,0,0,0,0,0,0
+NMPS,Chalkfronted Corporal,m,40,1,0,0,0,0,0,0,0,0,0,0
+NMPS,Common Whitetail,m,41,1,0,0,0,0,0,0,0,0,0,0
+NMBS,Beaverpond Baskettail ,m,42,0,1,0,0,0,0,0,0,0,0,0
+NMBS,Painted Skimmer ,m,43,0,1,0,0,0,0,0,0,0,0,0
+NMBS,Beaverpond Baskettail ,m,44,0,1,0,0,0,0,0,0,0,0,0
+NMBS,Painted Skimmer ,m,45,0,1,0,0,0,0,0,0,0,0,0
+NMBS,Painted Skimmer ,m,46,0,1,0,0,1,0,0,0,0,0,0
+NMBS,Painted Skimmer ,m,47,0,1,0,0,0,0,0,0,0,0,0
+NMBS,Carolina Saddlebags,m,48,0,1,0,0,0,0,0,0,0,0,0
+NMBS,Painted Skimmer ,m,49,0,1,0,0,0,0,0,0,0,0,0
+NMBS,Painted Skimmer ,m,50,0,1,0,0,0,0,0,0,0,0,0
+NMBS,Painted Skimmer ,f,51,0,1,0,0,0,0,0,0,0,0,0
+NMBS,Painted Skimmer ,m,52,0,1,1,0,0,0,0,0,0,0,0
+NMBS,Painted Skimmer ,m,53,0,1,0,0,0,0,0,0,0,0,0
+NMBS,Painted Skimmer ,m,54,0,1,0,0,0,0,0,0,0,0,0
+NMBS,Painted Skimmer ,m,55,0,1,0,0,0,0,0,0,0,0,0
+NMBS,Painted Skimmer ,m,56,0,1,0,0,0,0,0,0,0,0,0
+NMBS,Painted Skimmer ,m,57,0,1,0,0,0,0,0,0,0,0,0
+NMBS,Carolina Saddlebags,m,58,0,1,0,0,0,0,0,0,0,0,0
+NMBS,Painted Skimmer ,m,59,0,1,0,0,0,0,0,0,0,0,0
+NMBS,Painted Skimmer ,m,60,0,1,0,0,0,0,0,0,0,0,0
+NMBS,Beaverpond Baskettail ,m,61,0,1,0,0,0,0,0,0,0,0,0
+NMBS,Beaverpond Baskettail ,m,62,0,1,0,0,0,0,0,0,0,0,0
+NMBS,Painted Skimmer ,m,63,0,1,0,0,0,0,0,0,0,0,0
+NMPS,Common Whitetail,m,64,1,0,0,0,0,0,0,0,0,0,0
+NMPS,Chalkfronted Corporal,f,65,1,0,0,0,0,0,0,0,0,0,0
+NMPS,Common Whitetail,m,66,1,0,0,0,0,0,0,0,0,0,0
+NMPS,Painted Skimmer,m,67,1,0,0,0,0,0,0,0,0,0,0
+NCCP,Beaverpond Baskettail,m,68,1,0,0,0,0,0,0,0,0,0,0
+NCCP,Common Green Darner,m,69,1,0,0,0,0,0,0,0,0,0,0
+NCCP,Beaverpond Baskettail,m,70,1,0,0,0,0,0,0,0,0,0,0
+NCCP,Painted Skimmer,m,71,1,0,0,0,0,0,0,0,0,0,0
+NCCP,Painted Skimmer,m,72,1,0,0,0,0,0,0,0,0,0,0
+NCCP,Painted Skimmer,m,73,1,0,0,0,0,0,0,0,0,0,0
+NCCB,Common Whitetail,m,74,1,0,0,0,0,0,0,0,0,0,0
+NCCB,Beaverpond Baskettail,m,75,1,0,0,0,0,0,0,0,0,0,0
+NCCB,Beaverpond Baskettail,m,76,1,0,0,0,0,0,0,0,0,0,0
+NCCB,Common Whitetail,m,77,1,0,0,0,0,0,0,0,0,0,0
+NCCB,Beaverpond Baskettail,m,78,1,0,0,0,0,0,0,0,0,0,0
+NCCB,Common Whitetail,m,79,1,0,0,0,0,0,0,0,0,0,0
+NCCB,Chalkfronted Corporal,m,80,1,0,0,0,0,0,0,0,0,0,0
+NCCB,Beaverpond Baskettail,m,81,1,0,0,0,0,0,0,0,0,0,0
+NCCB,Painted Skimmer,m,82,1,0,0,0,0,0,0,0,0,0,0
+NCCP,Beaverpond Baskettail,m,83,1,0,0,0,0,0,0,0,0,0,0
+NCCP,Beaverpond Baskettail,m,84,1,0,0,0,0,0,0,0,0,0,0
+NCCP,Beaverpond Baskettail,m,85,1,0,0,0,0,0,0,0,0,0,0
+NCCP,Beaverpond Baskettail,m,86,1,0,0,0,0,0,0,0,0,0,0
+NCCP,Beaverpond Baskettail,m,87,1,0,0,0,0,0,0,0,0,0,0
+CT,Hudsonian Whiteface,m,88,1,0,0,0,0,0,0,0,0,0,0
+CT,Hudsonian Whiteface,m,89,1,1,1,0,0,0,0,0,0,0,0
+CT,Hudsonian Whiteface,m,90,1,0,0,0,0,0,0,0,0,0,0
+CT,Hudsonian Whiteface,m,91,1,0,0,0,0,0,0,0,0,0,0
+CT,Hudsonian Whiteface,m,92,1,0,1,0,0,0,0,0,0,0,0
+CT,Hudsonian Whiteface,m,93,1,1,1,0,0,0,0,0,0,0,0
+CT,Hudsonian Whiteface,m,94,1,0,0,0,0,0,0,0,0,0,0
+CT,Hudsonian Whiteface,m,95,1,0,1,0,0,0,0,0,0,0,0
+CT,Hudsonian Whiteface,m,96,1,0,0,0,0,0,0,0,0,0,0
+CT,Hudsonian Whiteface,m,97,1,0,0,0,0,0,0,0,0,0,0
+CT,Hudsonian Whiteface,m,98,1,0,0,0,0,0,0,0,0,0,0
+CT,Hudsonian Whiteface,m,99,1,0,1,1,0,0,0,0,0,0,0
+CT,Hudsonian Whiteface,m,100,1,0,0,0,0,0,0,0,0,0,0
+CT,Hudsonian Whiteface,m,101,1,0,1,0,0,0,0,0,0,0,0
+CT,Hudsonian Whiteface,m,102,1,0,1,0,0,0,0,0,0,0,0
+CT,Hudsonian Whiteface,m,103,1,0,1,0,0,0,0,0,0,0,0
+CT,Hudsonian Whiteface,m,104,1,0,0,0,0,0,0,0,0,0,0
+CT,Hudsonian Whiteface,m,105,1,0,0,0,0,0,0,0,0,0,0
+CT,Hudsonian Whiteface,f,106,1,0,0,0,0,0,0,0,0,0,0
+CT,Hudsonian Whiteface,m,107,1,0,0,0,0,0,0,0,0,0,0
+CT,Hudsonian Whiteface,m,108,1,0,0,0,0,0,0,0,0,0,0
+CT,Hudsonian Whiteface,m,109,1,0,0,0,0,0,0,0,0,0,0
+CT,Hudsonian Whiteface,m,110,1,0,0,0,0,0,0,0,0,0,0
+CT,Hudsonian Whiteface,m,111,1,0,0,0,0,0,0,0,0,0,0
+CT,American Emerald,m,112,1,0,0,0,0,0,0,0,0,0,0
+CT,Beaverpond Baskettail,m,113,1,0,0,0,0,0,0,0,0,0,0
+CT,Hudsonian Whiteface,m,114,1,0,0,0,0,0,0,0,0,0,0
+CT,Hudsonian Whiteface,m,115,1,0,1,0,1,0,0,0,0,0,0
+CT,Dot-tailed Whiteface,m,116,1,0,0,0,0,0,0,0,0,0,0
+CT,Hudsonian Whiteface,m,117,1,0,0,0,0,0,0,0,0,0,0
+CT,Hudsonian Whiteface,m,118,1,0,0,0,0,0,0,0,0,0,0
+CT,Hudsonian Whiteface,m,119,1,0,0,0,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,f,120,0,0,1,0,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,121,0,0,1,0,0,0,0,0,0,0,0
+HB,American Emerald,m,122,0,0,1,0,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,123,0,0,1,0,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,124,0,0,1,0,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,f,125,0,0,1,0,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,126,0,0,1,0,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,127,0,0,1,0,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,128,0,0,1,0,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,f,129,0,0,1,0,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,130,0,0,1,0,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,131,0,0,1,0,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,f,132,0,0,1,0,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,133,0,0,1,0,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,134,0,0,1,0,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,135,0,0,1,0,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,f,136,0,0,1,0,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,137,0,0,1,0,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,138,0,0,1,0,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,f,139,0,0,1,0,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,140,0,0,1,0,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,141,0,0,1,0,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,142,0,0,1,0,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,143,0,0,1,0,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,144,0,0,1,0,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,f,145,0,0,1,0,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,146,0,0,1,0,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,f,147,0,0,1,0,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,148,0,0,1,0,0,0,0,0,0,0,0
+NMPS,Lancet Clubtail,m,150,0,1,0,0,0,0,0,0,0,0,0
+NMBS,Chalk Fronted Corporal,m,151,0,0,1,0,0,0,0,0,0,0,0
+NMBS,Chalk Fronted Corporal,m,152,0,0,1,0,0,0,0,0,0,0,0
+NMBS,Carolina Saddlebags,m,153,0,0,1,0,0,0,0,0,0,0,0
+NMBS,Painted Skimmer,m,154,0,0,1,0,0,0,0,0,0,0,0
+NMBS,Chalk Fronted Corporal,m,155,0,0,1,0,0,0,0,0,0,0,0
+NMBS,Painted Skimmer,m,156,0,0,1,0,0,0,0,0,0,0,0
+NMBS,Common Whitetail,m,157,0,0,1,0,0,0,0,0,0,0,0
+NMBS,Chalk Fronted Corporal,m,158,0,0,1,0,0,0,0,0,0,0,0
+NMBS,Chalk Fronted Corporal,m,159,0,0,1,0,0,0,0,0,0,0,0
+NMBS,American Emerald,m,160,0,0,1,0,0,0,0,0,0,0,0
+NMBS,Beaverpond Baskettail ,m,161,0,0,1,0,0,0,0,0,0,0,0
+NMBS,Chalk Fronted Corporal,m,162,0,0,1,0,0,0,0,0,0,0,0
+NMBS,Painted Skimmer,m,163,0,0,1,0,0,0,0,0,0,0,0
+NMBS,Painted Skimmer,m,164,0,0,1,0,0,0,0,0,0,0,0
+NMBS,Painted Skimmer,m,165,0,0,1,0,0,0,0,0,0,0,0
+NMBS,Painted Skimmer,m,166,0,0,1,0,0,0,0,0,0,0,0
+NMBS,Painted Skimmer,m,167,0,0,1,0,0,0,0,0,0,0,0
+NMBS,Painted Skimmer,m,168,0,0,1,0,0,0,0,0,0,0,0
+NMBS,Painted Skimmer,m,169,0,0,1,0,0,0,0,0,0,0,0
+NMBS,Chalk Fronted Corporal,m,170,0,0,1,0,0,0,0,0,0,0,0
+NMBS,Common Whitetail,m,171,0,0,1,0,0,0,0,0,0,0,0
+NMPN,Crimson Ringed Whiteface,f,172,0,0,1,0,0,0,0,0,0,0,0
+NCCP,Chalkfronted Corporal,m,173,0,1,0,0,0,0,0,0,0,0,0
+NCCP,Chalkfronted Corporal,m,174,0,1,1,0,0,0,0,0,0,0,0
+NCCP,Chalkfronted Corporal,m,175,0,1,0,0,0,0,0,0,0,0,0
+NCCP,Chalkfronted Corporal,m,176,0,1,0,0,0,0,0,0,0,0,0
+NCCP,Chalkfronted Corporal,m,177,0,1,0,0,0,0,0,0,0,0,0
+NCCP,Chalkfronted Corporal,m,178,0,1,0,0,0,0,0,0,0,0,0
+NCCP,Dot-tailed Whiteface,m,179,0,1,0,0,0,0,0,0,0,0,0
+NCCP,Chalkfronted Corporal,m,180,0,1,0,0,0,0,0,0,0,0,0
+NCCP,Chalkfronted Corporal,m,181,0,1,0,0,0,0,0,0,0,0,0
+NCCP,Chalkfronted Corporal,m,182,0,1,0,0,0,0,0,0,0,0,0
+NCCP,Chalkfronted Corporal,f,183,0,1,0,0,0,0,0,0,0,0,0
+NCCP,Chalkfronted Corporal,m,184,0,1,0,0,0,0,0,0,0,0,0
+NCCP,Chalkfronted Corporal,m,185,0,1,0,0,0,0,0,0,0,0,0
+NCCP,Chalkfronted Corporal,m,186,0,1,0,0,0,0,0,0,0,0,0
+NCCP,Common Baskettail,m,187,0,1,0,0,0,0,0,0,0,0,0
+NCCB,Dot-tailed Whiteface,m,188,0,1,0,0,0,0,0,0,0,0,0
+NCCB,Dot-tailed Whiteface,m,189,0,1,0,0,0,0,0,0,0,0,0
+NCCB,Dot-tailed Whiteface,m,190,0,1,0,0,0,0,0,0,0,0,0
+CT,Chalk Fronted Corporal,m,191,0,1,1,0,0,0,0,0,0,0,0
+CLSA,Crimson Ringed Whiteface,m,192,1,0,0,0,0,0,0,0,0,0,0
+CT,Hudsonian Whiteface,m,192,0,1,0,0,0,0,0,0,0,0,0
+CLSA,Painted Skimmer,m,193,1,0,0,0,0,0,0,0,0,0,0
+CLSA,Chalkfronted Corporal,m,194,1,0,0,0,0,0,0,0,0,0,0
+HB,American Emerald,m,195,0,0,0,1,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,196,0,0,0,1,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,197,0,0,0,1,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,198,0,0,0,1,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,f,199,0,0,0,1,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,200,0,0,0,1,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,f,201,0,0,0,1,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,202,0,0,0,1,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,203,0,0,0,1,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,f,204,0,0,0,1,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,205,0,0,0,1,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,f,206,0,0,0,1,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,207,0,0,0,1,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,208,0,0,0,1,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,209,0,0,0,1,0,0,0,0,0,0,0
+HB,Chalk Fronted Corporal,f,210,0,0,0,1,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,211,0,0,0,1,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,212,0,0,0,1,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,f,213,0,0,0,1,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,f,214,0,0,0,1,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,215,0,0,0,1,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,216,0,0,0,1,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,217,0,0,0,1,0,0,0,0,0,0,0
+HB,American Emerald,m,218,0,0,0,1,0,0,0,0,0,0,0
+HB,Chalk Fronted Corporal,m,219,0,0,0,1,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,220,0,0,0,1,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,f,221,0,0,0,1,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,222,0,0,0,1,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,223,0,0,0,1,0,0,0,0,0,0,0
+HB,Chalk Fronted Corporal,m,224,0,0,0,1,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,225,0,0,0,1,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,226,0,0,0,1,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,227,0,0,0,1,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,228,0,0,0,1,0,0,0,0,0,0,0
+HB,American Emerald,m,229,0,0,0,1,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,f,230,0,0,0,1,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,f,231,0,0,0,1,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,232,0,0,0,1,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,233,0,0,0,1,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,234,0,0,0,1,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,235,0,0,0,1,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,236,0,0,0,1,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,237,0,0,0,1,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,238,0,0,0,1,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,239,0,0,0,1,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,240,0,0,0,1,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,241,0,0,0,1,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,f,242,0,0,0,1,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,f,243,0,0,0,1,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,f,244,0,0,0,1,0,0,0,0,0,0,0
+HB,American Emerald,m,245,0,0,0,1,0,0,0,0,0,0,0
+CLSA,Chalkfronted Corporal,m,246,1,0,0,0,0,0,0,0,0,0,0
+CLSA,Chalkfronted Corporal,m,247,1,0,0,0,0,0,0,0,0,0,0
+CLSA,Chalkfronted Corporal,m,248,1,0,0,0,0,0,0,0,0,0,0
+CLSA,Chalkfronted Corporal,m,249,1,0,0,0,0,0,0,0,0,0,0
+CLSA,Chalkfronted Corporal,f,250,1,0,0,0,0,0,0,0,0,0,0
+CLSA,Chalkfronted Corporal,m,251,1,1,0,0,0,0,0,0,0,0,0
+CLSA,Chalkfronted Corporal,m,252,1,0,0,0,0,0,0,0,0,0,0
+NMBS,American Emerald,m,253,0,0,0,1,0,0,0,0,0,0,0
+NMBS,Beaverpond Baskettail,m,254,0,0,0,1,0,0,0,0,0,0,0
+NMBS,Crimson Ringed Whiteface,m,255,0,0,0,1,0,0,0,0,0,0,0
+NMBS,American Emerald,m,256,0,0,0,1,0,0,0,0,0,0,0
+NMBS,Dot-tailed Whiteface,m,257,0,0,0,1,0,0,0,0,0,0,0
+NMBS,Crimson Ringed Whiteface,m,258,0,0,0,1,0,0,0,0,0,0,0
+NMPS,Painted Skimmer,f,259,0,0,1,0,0,0,0,0,0,0,0
+NMBS,Delta-spotted Spiketail,m,260,0,0,0,0,1,0,0,0,0,0,0
+NMBS,Chalk Fronted Corporal,m,261,0,0,0,0,1,0,0,0,0,0,0
+NMBS,Chalk Fronted Corporal,m,262,0,0,0,0,1,0,0,0,0,0,0
+NMBS,Crimson Ringed Whiteface,m,263,0,0,0,0,1,1,0,1,1,0,0
+NMBS,Delta-spotted Spiketail,m,264,0,0,0,0,1,0,0,0,0,0,0
+NMBS,Chalk Fronted Corporal,m,265,0,0,0,0,1,1,0,0,0,0,0
+NMBS,Delta-spotted Spiketail,m,266,0,0,0,0,1,0,0,0,0,0,0
+NMBS,American Emerald,m,267,0,0,0,0,1,0,0,0,0,0,0
+NMBS,Chalk Fronted Corporal,m,268,0,0,0,0,1,0,0,0,0,0,0
+NMBS,American Emerald,m,269,0,0,0,0,1,0,0,0,0,0,0
+NMBS,Common Green Darner,m,270,0,0,0,0,1,0,0,0,0,0,0
+NMBS,Chalk Fronted Corporal,m,271,0,0,0,0,1,0,0,0,0,0,0
+NMBS,American Emerald,m,272,0,0,0,0,1,0,0,0,0,0,0
+NMBS,American Emerald,m,273,0,0,0,0,1,0,0,0,0,0,0
+NMBS,Crimson Ringed Whiteface,m,274,0,0,0,0,1,0,0,0,0,0,0
+NMBS,Painted Skimmer,m,275,0,0,0,0,1,0,0,0,0,0,0
+NMBS,American Emerald,m,276,0,0,0,0,1,0,0,0,0,0,0
+NMBS,Crimson Ringed Whiteface,m,277,0,0,0,0,1,0,0,0,0,0,0
+NMBS,Chalk Fronted Corporal,m,278,0,0,0,0,1,1,0,0,0,0,0
+NMBS,Crimson Ringed Whiteface,m,279,0,0,0,0,1,0,0,0,0,0,0
+NMBS,American Emerald,m,280,0,0,0,0,1,0,0,0,0,0,0
+NMBS,Painted Skimmer,m,281,0,0,0,0,1,0,0,0,0,0,0
+NMBS,Painted Skimmer,m,282,0,0,0,0,1,0,0,0,0,0,0
+NMBS,Unicorn Clubtail,m,283,0,0,0,0,1,0,0,0,0,0,0
+NMBS,Carolina Saddlebags,f,284,0,0,0,0,1,0,0,0,0,0,0
+NMBS,Carolina Saddlebags,m,285,0,0,0,0,1,0,0,0,0,0,0
+NMBS,Crimson Ringed Whiteface,m,286,0,0,0,0,1,0,0,0,0,0,0
+NMBS,Chalk Fronted Corporal,m,287,0,0,0,0,1,0,0,0,0,0,0
+NMBS,Crimson Ringed Whiteface,m,288,0,0,0,0,1,0,0,0,0,0,0
+NMBS,Crimson Ringed Whiteface,m,289,0,0,0,0,1,0,0,0,0,0,0
+NMBS,Hudsonian Whiteface,m,290,0,0,0,0,1,1,0,0,0,0,0
+NMBS,Painted Skimmer,m,291,0,0,0,0,1,0,0,0,0,0,0
+NMBS,Lancet Clubtail,m,292,0,0,0,0,1,0,0,0,0,0,0
+NMBS,Crimson Ringed Whiteface,m,293,0,0,0,0,1,0,0,0,0,0,0
+NMBS,Chalk Fronted Corporal,m,294,0,0,0,0,1,0,0,0,0,0,0
+NMBS,American Emerald,m,295,0,0,0,0,1,0,0,0,0,0,0
+NMBS,American Emerald,m,296,0,0,0,0,1,0,0,0,0,0,0
+NMBS,American Emerald,m,297,0,0,0,0,1,0,0,0,0,0,0
+NMBS,Chalk Fronted Corporal,m,298,0,0,0,0,1,1,0,0,0,0,0
+NMBS,American Emerald,m,299,0,0,0,0,1,0,0,0,0,0,0
+NMBS,American Emerald,f,300,0,0,0,0,1,0,0,0,0,0,0
+NMBS,Blue Dasher,m,301,0,0,0,0,1,0,0,0,0,0,0
+NMBS,American Emerald,m,302,0,0,0,0,1,0,0,0,0,0,0
+NMBS,Common Whitetail,m,303,0,0,0,0,1,0,0,0,0,0,0
+CT,Chalk Fronted Corporal,m,304,0,0,1,1,0,0,0,0,0,0,0
+CT,Hudsonian Whiteface,f,305,0,0,1,0,0,0,0,0,0,0,0
+CT,Hudsonian Whiteface,f,306,0,0,1,0,0,0,0,0,0,0,0
+CT,Dot-tailed Whiteface,m,307,0,0,1,0,0,0,0,0,0,0,0
+CT,Hudsonian Whiteface,m,308,0,0,1,0,0,0,0,0,0,0,0
+CT,Hudsonian Whiteface,m,309,0,0,1,0,0,0,0,0,0,0,0
+CT,Spangled Skimmer,m,310,0,0,1,0,0,0,0,0,0,0,0
+CT,Dot-tailed Whiteface,m,311,0,0,1,0,0,0,0,0,0,0,0
+CT,Common Whitetail,m,312,0,0,1,0,0,0,0,0,0,0,0
+NCCP,Dot-tailed Whiteface,m,313,0,0,1,0,0,0,0,0,0,0,0
+NCCP,Chalkfronted Corporal,m,314,0,0,1,0,0,0,0,0,0,0,0
+NCCP,Chalkfronted Corporal,f,315,0,0,1,0,0,0,0,0,0,0,0
+NCCP,American Emerald,m,316,0,0,1,0,0,0,0,0,0,0,0
+NCCP,Dot-tailed Whiteface,m,317,0,0,1,0,0,0,0,0,0,0,0
+NCCP,Chalkfronted Corporal,m,318,0,0,1,0,0,0,0,0,0,0,0
+NCCP,American Emerald,m,319,0,0,1,0,0,0,0,0,0,0,0
+NCCP,American Emerald,m,320,0,0,1,0,0,0,0,0,0,0,0
+NCCP,Dot-tailed Whiteface,m,321,0,0,1,0,0,0,0,0,0,0,0
+NCCP,Chalkfronted Corporal,m,322,0,0,1,0,0,0,0,0,0,0,0
+NCCP,American Emerald,m,323,0,0,1,0,0,0,0,0,0,0,0
+NCCP,American Emerald,m,324,0,0,1,0,0,0,0,0,0,0,0
+NCCP,American Emerald,m,325,0,0,1,0,0,0,0,0,0,0,0
+NCCP,American Emerald,m,326,0,0,1,0,0,0,0,0,0,0,0
+NCCP,Chalkfronted Corporal,m,327,0,0,1,0,0,0,0,0,0,0,0
+NCCP,American Emerald,m,328,0,0,1,0,0,0,0,0,0,0,0
+NCCP,Chalkfronted Corporal,m,329,0,0,1,0,0,0,0,0,0,0,0
+NCCP,Chalkfronted Corporal,m,330,0,0,1,0,0,0,0,0,0,0,0
+NCCP,American Emerald,m,331,0,0,1,0,0,0,0,0,0,0,0
+NCCP,Chalkfronted Corporal,m,332,0,0,1,0,0,0,0,0,0,0,0
+NCCP,American Emerald,m,333,0,0,1,0,0,0,0,0,0,0,0
+NCCP,American Emerald,m,334,0,0,1,0,0,0,0,0,0,0,0
+NCCP,American Emerald,m,335,0,0,1,0,0,0,0,0,0,0,0
+NCCP,American Emerald,m,336,0,0,1,0,0,0,0,0,0,0,0
+NCCP,American Emerald,m,337,0,0,1,0,0,0,0,0,0,0,0
+NCCP,Chalkfronted Corporal,m,338,0,0,1,0,0,0,0,0,0,0,0
+NCCP,Unicorn Clubtail,m,339,0,0,1,0,0,0,0,0,0,0,0
+NCCP,Chalkfronted Corporal,m,340,0,0,1,0,0,0,0,0,0,0,0
+NCCP,Chalkfronted Corporal,m,341,0,0,1,0,0,0,0,0,0,0,0
+NCCP,American Emerald,m,342,0,0,1,0,0,0,0,0,0,0,0
+NCCB,Dot-tailed Whiteface,m,343,0,0,1,0,0,0,0,0,0,0,0
+NCCB,Dot-tailed Whiteface,m,344,0,0,1,0,0,0,0,0,0,0,0
+NCCB,Dot-tailed Whiteface,m,345,0,0,1,0,0,0,0,0,0,0,0
+NCCB,Chalkfronted Corporal,m,346,0,0,1,0,0,0,0,0,0,0,0
+NCCB,Dot-tailed Whiteface,m,347,0,0,1,0,0,0,0,0,0,0,0
+NCCB,Chalkfronted Corporal,m,348,0,0,1,0,0,0,0,0,0,0,0
+NCCB,Unicorn Clubtail,m,349,0,0,1,0,0,0,0,0,0,0,0
+NMPN,Painted Skimmer,m,350,0,0,0,1,0,0,0,0,0,0,0
+NMPN,Painted Skimmer,m,351,0,0,0,1,0,0,0,0,0,0,0
+NMBN,Chalkfronted Corporal,m,352,0,1,0,0,0,0,0,0,0,0,0
+NMBN,Hudsonian Whiteface,m,353,0,1,0,0,0,0,0,0,0,0,0
+NMBN,American Emerald,m,354,0,1,0,0,0,0,0,0,0,0,0
+NMBN,Common Baskettail,m,355,0,1,0,0,0,0,0,0,0,0,0
+NMBS,American Emerald,m,356,0,0,0,0,0,1,0,0,0,0,0
+NMBS,Crimson Ringed Whiteface,m,357,0,0,0,0,0,1,0,0,0,0,0
+NMBS,Chalk Fronted Corporal,m,358,0,0,0,0,0,1,0,0,0,0,0
+NMBS,Chalk Fronted Corporal,m,359,0,0,0,0,0,1,0,0,0,0,0
+NMBS,Chalk Fronted Corporal,m,360,0,0,0,0,0,1,0,0,0,0,0
+NMBS,Crimson Ringed Whiteface,m,361,0,0,0,0,0,1,0,0,0,0,0
+NMBS,Chalk Fronted Corporal,m,362,0,0,0,0,0,1,0,0,0,0,0
+NMBS,Crimson Ringed Whiteface,m,363,0,0,0,0,0,1,0,0,0,0,0
+NMBS,Crimson Ringed Whiteface,m,364,0,0,0,0,0,1,0,0,0,0,0
+NMBS,Chalk Fronted Corporal,m,365,0,0,0,0,0,1,0,0,0,0,0
+NMBS,Common Whitetail,m,366,0,0,0,0,0,1,0,0,0,0,0
+NMBS,Crimson Ringed Whiteface,m,367,0,0,0,0,0,1,0,0,0,0,0
+NMBS,Chalk Fronted Corporal,m,368,0,0,0,0,0,1,0,0,0,0,0
+NMBS,Chalk Fronted Corporal,m,369,0,0,0,0,0,1,0,0,0,0,0
+NMBS,American Emerald,m,370,0,0,0,0,0,1,0,0,0,0,0
+NMBS,Chalk Fronted Corporal,m,371,0,0,0,0,0,1,0,0,0,0,0
+NMBS,American Emerald,m,372,0,0,0,0,0,1,0,0,0,0,0
+NMBS,American Emerald,m,373,0,0,0,0,0,1,0,0,0,0,0
+NMBS,Crimson Ringed Whiteface,f,374,0,0,0,0,0,1,0,0,0,0,0
+NMBS,American Emerald,m,375,0,0,0,0,0,1,0,0,0,0,0
+NMBS,American Emerald,m,376,0,0,0,0,0,1,0,0,0,0,0
+NMBS,Crimson Ringed Whiteface,m,377,0,0,0,0,0,1,0,0,0,0,0
+NMBS,American Emerald,m,378,0,0,0,0,0,1,0,0,0,0,0
+NMBS,American Emerald,m,379,0,0,0,0,0,1,0,0,0,0,0
+NMBS,American Emerald,m,380,0,0,0,0,0,1,0,0,0,0,0
+NMBS,Chalk Fronted Corporal,m,381,0,0,0,0,0,1,0,0,0,0,0
+NMBS,Chalk Fronted Corporal,m,382,0,0,0,0,0,1,0,0,0,0,0
+NMBS,Crimson Ringed Whiteface,m,383,0,0,0,0,0,1,0,0,0,0,0
+NMBS,Chalk Fronted Corporal,m,384,0,0,0,0,0,1,0,0,0,0,0
+NMBS,Painted Skimmer,m,385,0,0,0,0,0,1,0,0,0,0,0
+NMBS,Chalk Fronted Corporal,m,386,0,0,0,0,0,1,0,0,0,0,0
+NMBS,Crimson Ringed Whiteface,m,387,0,0,0,0,0,1,0,0,0,0,0
+NMBS,Chalk Fronted Corporal,m,388,0,0,0,0,0,1,0,0,0,0,0
+NMBS,American Emerald,m,389,0,0,0,0,0,1,0,0,0,0,0
+NMBS,Chalk Fronted Corporal,m,390,0,0,0,0,0,1,0,0,0,0,0
+NMBS,Chalk Fronted Corporal,m,391,0,0,0,0,0,1,0,0,0,0,0
+NMBS,Chalk Fronted Corporal,m,392,0,0,0,0,0,1,0,0,0,0,0
+NMBS,Painted Skimmer,m,393,0,0,0,0,0,1,0,0,0,0,0
+NMBS,Delta-spotted Spiketail,m,394,0,0,0,0,0,1,0,0,0,0,0
+NMBS,Painted Skimmer,m,395,0,0,0,0,0,1,0,0,0,0,0
+NMBS,American Emerald,m,396,0,0,0,0,0,1,0,0,0,0,0
+NMBS,Crimson Ringed Whiteface,m,397,0,0,0,0,0,1,0,0,0,0,0
+NMBS,Crimson Ringed Whiteface,m,398,0,0,0,0,0,1,0,0,0,1,0
+NMBS,Crimson Ringed Whiteface,f,399,0,0,0,0,0,1,0,0,0,0,0
+NMBS,Hudsonian Whiteface,m,400,0,0,0,0,0,1,0,0,0,0,0
+NMBS,Crimson Ringed Whiteface,f,401,0,0,0,0,0,1,0,0,0,0,0
+NMBS,Crimson Ringed Whiteface,m,402,0,0,0,0,0,1,0,0,0,0,0
+NMBS,Chalk Fronted Corporal,m,403,0,0,0,0,0,1,0,0,0,0,0
+CLSA,Chalkfronted Corporal,m,404,0,1,0,0,0,0,0,0,0,0,0
+CLSA,Chalkfronted Corporal,m,405,0,1,0,0,0,0,0,0,0,0,0
+CLSA,Chalkfronted Corporal,m,406,0,1,0,0,0,0,0,0,0,0,0
+CLSA,Chalkfronted Corporal,m,407,0,1,0,0,0,0,0,0,0,0,0
+CLSA,Common Whitetail,m,408,0,1,0,0,0,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,409,0,0,0,0,1,0,0,0,0,0,0
+HB,Common Whitetail,m,410,0,0,0,0,1,0,0,0,0,0,0
+HB,Chalk Fronted Corporal,m,411,0,0,0,0,1,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,412,0,0,0,0,1,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,f,413,0,0,0,0,1,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,414,0,0,0,0,1,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,415,0,0,0,0,1,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,416,0,0,0,0,1,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,417,0,0,0,0,1,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,418,0,0,0,0,1,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,419,0,0,0,0,1,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,420,0,0,0,0,1,0,0,0,0,0,0
+HB,American Emerald,m,421,0,0,0,0,1,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,f,422,0,0,0,0,1,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,423,0,0,0,0,1,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,f,424,0,0,0,0,1,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,f,425,0,0,0,0,1,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,426,0,0,0,0,1,0,0,0,0,0,0
+HB,Crimson Ringed Whiteface,m,427,0,0,0,0,1,0,0,0,0,0,0
+CT,Dot-tailed Whiteface,f,428,0,0,0,1,0,0,0,0,0,0,0
+CT,American Emerald,m,429,0,0,0,1,0,0,0,0,0,0,0
+CT,Dot-tailed Whiteface,m,430,0,0,0,1,0,0,0,0,0,0,0
+CT,Dot-tailed Whiteface,m,431,0,0,0,1,0,0,0,0,0,0,0
+CT,Hudsonian Whiteface,f,432,0,0,0,1,0,0,0,0,0,0,0
+CT,Hudsonian Whiteface,m,433,0,0,0,1,0,0,0,0,0,0,0
+CT,Dot-tailed Whiteface,m,434,0,0,0,1,0,0,0,0,0,0,0
+CT,Hudsonian Whiteface,m,435,0,0,0,1,0,0,0,0,0,0,0
+CT,Dot-tailed Whiteface,m,436,0,0,0,1,0,0,0,0,0,0,0
+CT,Hudsonian Whiteface,f,437,0,0,0,1,0,0,0,0,0,0,0
+CT,Hudsonian Whiteface,m,438,0,0,0,1,0,0,0,0,0,0,0
+CT,Twelve Spotted Skimmer,m,439,0,0,0,1,0,0,0,0,0,0,0
+NMPN,Painted Skimmer,m,440,0,0,0,0,1,0,0,0,0,0,0
+CT,American Emerald,m,441,0,0,0,0,0,1,0,0,0,0,0
+CT,Twelve Spotted Skimmer,m,442,0,0,0,0,0,1,0,0,0,0,0
+CT,Blue Dasher,m,443,0,0,0,0,0,1,0,0,0,0,0
+CT,Hudsonian Whiteface,f,444,0,0,0,0,0,1,0,0,0,0,0
+CT,Dot-tailed Whiteface,m,445,0,0,0,0,0,1,0,0,0,0,0
+CT,Hudsonian Whiteface,m,446,0,0,0,0,0,1,0,0,0,0,0
+NMPN,Painted Skimmer,m,447,0,0,0,0,0,1,0,0,0,0,0
+NMPN,Painted Skimmer,m,448,0,0,0,0,0,1,0,0,0,0,0
+NMPN,Chalkfronted Corporal,f,449,0,0,0,0,0,1,0,0,0,0,0
+NMPN,American Emerald,m,450,0,0,0,0,0,1,0,0,0,0,0
+NMPN,Unicorn Clubtail,m,451,0,0,0,0,0,1,0,0,0,0,0
+NMBN,Twelve Spotted Skimmer,m,453,0,0,1,0,0,0,0,0,0,0,0
+NMBS,Chalkfronted Corporal,m,454,0,0,0,0,0,0,1,0,0,0,0
+NMBS,Chalkfronted Corporal,m,455,0,0,0,0,0,0,1,0,0,0,0
+NMBS,Crimson Ringed Whiteface,m,456,0,0,0,0,0,0,1,0,0,0,0
+NMBS,Unicorn Clubtail,m,457,0,0,0,0,0,0,1,0,0,0,0
+NMBS,Calico Pennant,m,458,0,0,0,0,0,0,1,0,0,0,0
+NMBS,Common Whitetail,m,460,0,0,0,0,0,0,1,0,0,1,0
+NMBS,Unicorn Clubtail,m,461,0,0,0,0,0,0,1,0,0,0,0
+NMBS,Crimson Ringed Whiteface,m,462,0,0,0,0,0,0,1,0,0,0,0
+NMBS,American Emerald,m,463,0,0,0,0,0,0,1,0,0,0,0
+NMBS,American Emerald,m,464,0,0,0,0,0,0,1,0,0,0,0
+NMBS,Crimson Ringed Whiteface,m,465,0,0,0,0,0,0,1,0,0,0,0
+NMBS,American Emerald,m,466,0,0,0,0,0,0,1,0,0,0,0
+NMBS,Chalkfronted Corporal,m,467,0,0,0,0,0,0,1,0,0,0,0
+NMBS,Crimson Ringed Whiteface,m,468,0,0,0,0,0,0,1,0,0,0,0
+NMBS,Crimson Ringed Whiteface,m,469,0,0,0,0,0,0,1,0,0,0,0
+NMBS,Calico Pennant,m,470,0,0,0,0,0,0,1,0,0,0,0
+NMBS,Crimson Ringed Whiteface,m,471,0,0,0,0,0,0,1,0,0,0,0
+NMBS,Crimson Ringed Whiteface,m,472,0,0,0,0,0,0,1,0,0,0,0
+NMBS,Crimson Ringed Whiteface,m,473,0,0,0,0,0,0,1,0,0,0,0
+NCCP,American Emerald,m,475,0,0,0,1,0,0,0,0,0,0,0
+NCCP,Chalkfronted Corporal,m,476,0,0,0,1,1,1,0,0,0,0,0
+NCCP,Chalkfronted Corporal,m,477,0,0,0,1,0,0,0,0,0,0,0
+NCCP,Common Green Darner,m,478,0,0,0,1,0,0,0,0,0,0,0
+NCCP,Chalkfronted Corporal,m,479,0,0,0,1,0,0,0,0,0,0,0
+NCCP,Chalkfronted Corporal,m,480,0,0,0,1,0,0,0,0,0,0,0
+NCCP,American Emerald,m,481,0,0,0,1,0,0,0,0,0,0,0
+NCCP,Lancet Clubtail,m,482,0,0,0,1,0,0,0,0,0,0,0
+NCCP,Blue Dasher,m,483,0,0,0,1,0,0,0,0,0,0,0
+NCCP,American Emerald,m,484,0,0,0,1,0,0,0,0,0,0,0
+NCCP,American Emerald,m,485,0,0,0,1,0,0,0,0,0,0,0
+NCCP,American Emerald,m,486,0,0,0,1,0,0,0,0,0,0,0
+NCCP,American Emerald,m,487,0,0,0,1,0,0,0,0,0,0,0
+NCCP,Unicorn Clubtail,m,488,0,0,0,1,0,0,0,0,0,0,0
+NCCP,Common Green Darner,m,489,0,0,0,1,0,0,0,0,0,0,0
+NCCP,Unicorn Clubtail,m,490,0,0,0,1,0,0,0,0,0,0,0
+NCCP,Ruby Meadowhawk,m,491,0,0,0,1,0,0,0,0,0,0,0
+NCCP,Ruby Meadowhawk,m,492,0,0,0,1,0,0,0,0,0,0,0
+NCCB,Blue Dasher,m,493,0,0,0,1,0,0,0,0,0,0,0
+NCCB,Twelve-spotted Skimmer,m,494,0,0,0,1,0,0,0,0,0,0,0
+NCCB,Common Whitetail,f,495,0,0,0,1,0,0,0,0,0,0,0
+NCCB,Blue Dasher,m,496,0,0,0,1,0,0,0,0,0,0,0
+NCCB,Blue Dasher,m,497,0,0,0,1,0,0,0,0,0,0,0
+NCCB,Blue Dasher,m,498,0,0,0,1,0,0,0,0,0,0,0
+NCCB,Blue Dasher,m,499,0,0,0,1,0,0,0,0,0,0,0
+NCCB,Chalkfronted Corporal,m,500,0,0,0,1,0,0,0,0,0,0,0
+NCCB,Blue Dasher,m,501,0,0,0,1,0,0,0,0,0,0,0
+NCCB,Common Whitetail,m,502,0,0,0,1,0,0,0,0,0,0,0
+NCCB,Twelve-spotted Skimmer,m,503,0,0,0,1,0,0,0,0,0,0,0
+NCCB,Blue Dasher,m,504,0,0,0,1,0,0,0,0,0,0,0
+NCCB,Dot-tailed Whiteface,m,505,0,0,0,1,0,0,0,0,0,0,0
+NCCB,Blue Dasher,m,506,0,0,0,1,0,0,0,0,0,0,0
+NCCB,Twelve-spotted Skimmer,m,507,0,0,0,1,0,0,0,0,0,0,0
+NCCB,Whiteface Meadowhawk,m,508,0,0,0,1,0,0,0,0,0,0,0
+NCCB,Spangled Skimmer,m,509,0,0,0,1,0,0,0,0,0,0,0
+NCCB,Dot-tailed Whiteface,m,510,0,0,0,1,0,0,0,0,0,0,0
+NCCB,Dot-tailed Whiteface,m,511,0,0,0,1,0,0,0,0,0,0,0
+NCCB,Blue Dasher,m,512,0,0,0,1,0,0,0,0,0,0,0
+CT,Dot-tailed Whiteface,m,513,0,0,0,0,0,0,1,0,0,0,0
+CT,Hudsonian Whiteface,m,514,0,0,0,0,0,0,1,0,0,0,0
+CT,Hudsonian Whiteface,m,515,0,0,0,0,0,0,1,0,0,0,0
+CT,Eastern Pondhawk,m,516,0,0,0,0,0,0,1,0,0,0,0
+NMBS,Common Whitetail,m,517,0,0,0,0,0,0,0,1,0,0,0
+NMBS,American Emerald,m,518,0,0,0,0,0,0,0,1,0,0,0
+NMBS,Chalkfronted Corporal,m,519,0,0,0,0,0,0,0,1,0,0,0
+NMBS,Painted Skimmer,f,520,0,0,0,0,0,0,0,1,0,0,0
+NMBS,Crimson Ringed Whiteface,f,521,0,0,0,0,0,0,0,1,0,0,0
+NMBS,Crimson Ringed Whiteface,f,522,0,0,0,0,0,0,0,1,0,0,0
+NMBS,Chalkfronted Corporal,m,523,0,0,0,0,0,0,0,1,0,0,0
+NMBS,Crimson Ringed Whiteface,m,524,0,0,0,0,0,0,0,1,0,0,0
+NMBS,Blue Dasher,f,525,0,0,0,0,0,0,0,1,0,0,0
+NMBS,Crimson Ringed Whiteface,m,526,0,0,0,0,0,0,0,1,0,0,0
+NMBS,Blue Dasher,m,527,0,0,0,0,0,0,0,1,0,0,0
+NMBS,Crimson Ringed Whiteface,m,528,0,0,0,0,0,0,0,1,0,0,0
+NMBS,Crimson Ringed Whiteface,m,529,0,0,0,0,0,0,0,1,0,1,0
+NMBS,Crimson Ringed Whiteface,m,530,0,0,0,0,0,0,0,1,0,0,0
+NMBS,Crimson Ringed Whiteface,f,531,0,0,0,0,0,0,0,1,0,0,0
+NMBS,Crimson Ringed Whiteface,m,532,0,0,0,0,0,0,0,1,0,0,0
+NMBS,Crimson Ringed Whiteface,m,533,0,0,0,0,0,0,0,1,0,0,0
+NMBS,Crimson Ringed Whiteface,m,535,0,0,0,0,0,0,0,1,1,0,0
+NMBS,Crimson Ringed Whiteface,m,536,0,0,0,0,0,0,0,1,0,0,0
+NMBS,Crimson Ringed Whiteface,m,537,0,0,0,0,0,0,0,1,0,0,0
+NMBS,Crimson Ringed Whiteface,m,538,0,0,0,0,0,0,0,1,0,0,0
+NMBS,Crimson Ringed Whiteface,m,539,0,0,0,0,0,0,0,1,0,0,0
+NMBS,Crimson Ringed Whiteface,m,540,0,0,0,0,0,0,0,1,0,0,0
+NMBS,Crimson Ringed Whiteface,m,541,0,0,0,0,0,0,0,1,0,0,0
+NMBS,Crimson Ringed Whiteface,m,542,0,0,0,0,0,0,0,1,0,0,0
+NMBS,Crimson Ringed Whiteface,m,543,0,0,0,0,0,0,0,1,0,0,0
+NMBS,Crimson Ringed Whiteface,m,544,0,0,0,0,0,0,0,1,1,0,0
+NMBS,Crimson Ringed Whiteface,m,545,0,0,0,0,0,0,0,1,1,0,0
+NMBS,Crimson Ringed Whiteface,m,546,0,0,0,0,0,0,0,1,1,0,0
+NMBS,Painted Skimmer,m,547,0,0,0,0,0,0,0,1,0,0,0
+NMBS,Spangled Skimmer,f,548,0,0,0,0,0,0,0,1,0,0,0
+NMBS,Crimson Ringed Whiteface,m,549,0,0,0,0,0,0,0,1,1,0,0
+NMBS,Crimson Ringed Whiteface,m,550,0,0,0,0,0,0,0,1,0,0,0
+NMBS,Crimson Ringed Whiteface,m,551,0,0,0,0,0,0,0,1,0,0,0
+NMBS,Crimson Ringed Whiteface,m,552,0,0,0,0,0,0,0,1,0,0,0
+NMBS,Chalkfronted Corporal,m,553,0,0,0,0,0,0,0,1,1,0,0
+NMBS,Crimson Ringed Whiteface,m,554,0,0,0,0,0,0,0,1,0,0,0
+NMBS,Crimson Ringed Whiteface,m,555,0,0,0,0,0,0,0,1,0,0,0
+NMBS,American Emerald,m,556,0,0,0,0,0,0,0,1,0,0,0
+NMBS,Crimson Ringed Whiteface,m,557,0,0,0,0,0,0,0,1,0,0,0
+NMBS,Crimson Ringed Whiteface,m,558,0,0,0,0,0,0,0,1,0,0,0
+NMBS,Crimson Ringed Whiteface,m,559,0,0,0,0,0,0,0,1,1,0,0
+NMBS,Calico Pennant,m,560,0,0,0,0,0,0,0,1,0,0,0
+NMBS,Common Whitetail,m,561,0,0,0,0,0,0,0,1,0,0,0
+NMBS,Chalkfronted Corporal,m,562,0,0,0,0,0,0,0,1,1,0,0
+NMBS,Lancet Clubtail,m,563,0,0,0,0,0,0,0,1,0,0,0
+NCCP,American Emerald,m,564,0,0,0,0,1,0,0,0,0,0,0
+NMPN,Bar Winged Skimmer,m,564,0,0,0,0,0,0,1,0,0,0,0
+NCCP,Chalkfronted Corporal,m,565,0,0,0,0,1,1,0,0,0,0,0
+NCCP,Dot-tailed Whiteface,m,566,0,0,0,0,1,0,0,0,0,0,0
+NCCP,Painted Skimmer,m,567,0,0,0,0,1,0,0,0,0,0,0
+NCCP,Chalkfronted Corporal,m,568,0,0,0,0,1,0,0,0,0,0,0
+NCCP,Dot-tailed Whiteface,m,569,0,0,0,0,1,0,0,0,0,0,0
+NCCP,Chalkfronted Corporal,m,570,0,0,0,0,1,0,0,0,0,0,0
+NCCP,American Emerald,m,571,0,0,0,0,1,0,0,0,0,0,0
+NCCP,Chalkfronted Corporal,m,572,0,0,0,0,1,0,0,0,0,0,0
+NCCP,Dot-tailed Whiteface,m,573,0,0,0,0,1,0,0,0,0,0,0
+NCCP,Comon Whitetail,m,574,0,0,0,0,1,0,0,0,0,0,0
+NCCP,Twelve Spotted Skimmer,m,575,0,0,0,0,1,0,0,0,0,0,0
+NCCP,American Emerald,m,576,0,0,0,0,1,0,0,0,0,0,0
+NCCP,American Emerald,m,577,0,0,0,0,1,0,0,0,0,0,0
+NCCP,American Emerald,m,578,0,0,0,0,1,0,0,0,0,0,0
+NCCP,American Emerald,m,579,0,0,0,0,1,0,0,0,0,0,0
+NCCP,American Emerald,m,580,0,0,0,0,1,0,0,0,0,0,0
+NCCP,Twelve Spotted Skimmer,m,581,0,0,0,0,1,0,0,0,0,0,0
+NCCP,Chalkfronted Corporal,m,582,0,0,0,0,1,0,0,0,0,0,0
+NCCP,Chalkfronted Corporal,m,583,0,0,0,0,1,0,0,0,0,0,0
+NCCP,American Emerald,m,584,0,0,0,0,1,0,0,0,0,0,0
+NMBS,Crimson Ringed Whiteface,m,585,0,0,0,0,0,0,0,0,1,0,0
+NMBS,Crimson Ringed Whiteface,m,586,0,0,0,0,0,0,0,0,1,0,0
+NMBS,Common Whitetail,m,587,0,0,0,0,0,0,0,0,1,1,0
+NMBS,Slaty Skimmer,m,588,0,0,0,0,0,0,0,0,1,0,0
+NMBS,Chalkfronted Corporal,m,589,0,0,0,0,0,0,0,0,1,0,0
+NMBS,Crimson Ringed Whiteface,m,590,0,0,0,0,0,0,0,0,1,0,0
+NMBS,Crimson Ringed Whiteface,m,591,0,0,0,0,0,0,0,0,1,0,0
+NMBS,American Emerald,m,592,0,0,0,0,0,0,0,0,1,0,0
+NMBS,Crimson Ringed Whiteface,f,593,0,0,0,0,0,0,0,0,1,0,0
+NMBS,Crimson Ringed Whiteface,m,594,0,0,0,0,0,0,0,0,1,0,0
+NCCB,Dot-tailed Whiteface,m,595,0,0,0,0,1,0,0,0,0,0,0
+NCCB,Dot-tailed Whiteface,m,596,0,0,0,0,1,0,0,0,0,0,0
+NCCB,Dot-tailed Whiteface,m,597,0,0,0,0,1,0,0,0,0,0,0
+NCCB,Dot-tailed Whiteface,m,598,0,0,0,0,1,0,0,0,0,0,0
+NCCB,Blue Dasher,m,599,0,0,0,0,1,0,0,0,0,0,0
+NCCB,Blue Dasher,m,600,0,0,0,0,1,0,0,0,0,0,0
+NCCB,Blue Dasher,m,601,0,0,0,0,1,0,0,0,0,0,0
+NCCP,Common Whitetail,m,602,0,0,0,0,0,1,0,0,0,0,0
+NCCP,Unicorn Clubtail,m,603,0,0,0,0,0,1,0,0,0,0,0
+NCCP,American Emerald,m,604,0,0,0,0,0,1,0,0,0,0,0
+NCCP,Blue Dasher,m,605,0,0,0,0,0,1,0,0,0,0,0
+NCCP,Common Green Darner,m,606,0,0,0,0,0,1,0,0,0,0,0
+NCCP,Chalkfronted Corporal,m,607,0,0,0,0,0,1,0,0,0,0,0
+NCCP,Chalkfronted Corporal,f,608,0,0,0,0,0,1,0,0,0,0,0
+NCCP,Chalkfronted Corporal,f,609,0,0,0,0,0,1,0,0,0,0,0
+NCCP,American Emerald,f,610,0,0,0,0,0,1,0,0,0,0,0
+NCCP,Twelve Spotted Skimmer,m,611,0,0,0,0,0,1,0,0,0,0,0
+NMBS,Common Whitetail,m,612,0,0,0,0,0,0,0,0,0,1,0
+NMBS,Calico Pennant,f,613,0,0,0,0,0,0,0,0,0,1,0
+NMBS,Crimson Ringed Whiteface,m,614,0,0,0,0,0,0,0,0,0,1,0
+NMBS,American Emerald,m,615,0,0,0,0,0,0,0,0,0,1,0
+NMBS,Crimson Ringed Whiteface,m,616,0,0,0,0,0,0,0,0,0,1,1
+NMBS,Twelve-spotted Skimmer,m,617,0,0,0,0,0,0,0,0,0,1,0
+NMBS,Chalkfronted Corporal,m,618,0,0,0,0,0,0,0,0,0,1,0
+NMBS,Painted Skimmer,m,619,0,0,0,0,0,0,0,0,0,1,0
+NMBS,Green-striped darner ,f,620,0,0,0,0,0,0,0,0,0,1,0
+NMBS,Crimson Ringed Whiteface,m,621,0,0,0,0,0,0,0,0,0,0,1
+NMBS,Crimson Ringed Whiteface,m,622,0,0,0,0,0,0,0,0,0,0,1
+NMBS,Crimson Ringed Whiteface,m,623,0,0,0,0,0,0,0,0,0,0,1

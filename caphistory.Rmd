@@ -1,0 +1,42 @@
+---
+title: "caphistory"
+author: "Bethany Liberto"
+date: "January 10, 2019"
+output: word_document
+---
+
+```{r}
+
+echo "# dragonflies" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/bpliberto/dragonflies.git
+git push -u origin master
+```
+
+
+```{r}
+library(unmarked)
+library(marked)
+library(RMark)
+
+cap <- read.csv("capturehistory.csv")
+str(cap)
+```
+
+```{r}
+cap.y <- cap[,c("c1", "c2", "c3", "c4" , "c5", "c6", "c7", "c8", "c9", "c10", "c11")] #was doing this based on the N-mixture model, but not sure if it's really what I want to do
+```
+
+```{r}
+mod=crm(cap,model="JS",groups="Sex",model.parameters=list(Phi=list(formula=~Sex),p=list(formula=~code)))
+mod$results$beta
+```
+
+```{r}
+Model.1 = mark(hw.proc,hw.ddl,model.parameters=list(Phi=Phi.ct,p=p.ct),output = FALSE,delete=T)
+```
+
+
+
